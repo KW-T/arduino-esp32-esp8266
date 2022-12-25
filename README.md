@@ -9,7 +9,7 @@ arduino-esp32-esp8266的例程和库
 
 ## [![Arduino](https://img.shields.io/github/Arduino-svg?style=plastic)](https://www.arduino.cc/)官网
 
-# 以下是ESP32官方相关资料
+# 以下是ESP32官方相关部分资料
 ### 发展状况
 
 最新稳定版  [![Release Version](https://img.shields.io/github/release/espressif/arduino-esp32.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/) [![Release Date](https://img.shields.io/github/release-date/espressif/arduino-esp32.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/) [![Downloads](https://img.shields.io/github/downloads/espressif/arduino-esp32/latest/total.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/)
