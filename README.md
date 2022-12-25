@@ -7,33 +7,24 @@ arduino-esp32-esp8266的例程和库
 - ADC1:32,33,(34,35,36,37,38,39)仅输入
 - ADC2:0,2,4,12,13,14,15,25,26,27 打开WIFI不可用
 
-![Build Status](https://github.com/espressif/arduino-esp32/workflows/ESP32%20Arduino%20CI/badge.svg) [![Documentation Status](https://readthedocs.com/projects/espressif-arduino-esp32/badge/?version=latest)](https://docs.espressif.com/projects/arduino-esp32/en/latest/?badge=latest)
+# 以下是ESP32官方相关资料
+### 发展状况
 
-### Need help or have a question? Join the chat at [![https://gitter.im/espressif/arduino-esp32](https://badges.gitter.im/espressif/arduino-esp32.svg)](https://gitter.im/espressif/arduino-esp32?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+最新稳定版  [![Release Version](https://img.shields.io/github/release/espressif/arduino-esp32.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/) [![Release Date](https://img.shields.io/github/release-date/espressif/arduino-esp32.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/) [![Downloads](https://img.shields.io/github/downloads/espressif/arduino-esp32/latest/total.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/)
 
-## Contents
+最新开发版  [![Release Version](https://img.shields.io/github/release/espressif/arduino-esp32/all.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/) [![Release Date](https://img.shields.io/github/release-date-pre/espressif/arduino-esp32.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/) [![Downloads](https://img.shields.io/github/downloads-pre/espressif/arduino-esp32/latest/total.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/)
 
-- [Development Status](#development-status)
-- [Decoding Exceptions](#decoding-exceptions)
-- [Issue/Bug report template](#issuebug-report-template)
+### 文档
 
-### Development Status
+您可以使用 [Arduino-ESP32 Online Documentation](https://docs.espressif.com/projects/arduino-esp32/en/latest/) 来获取关于这个项目的所有信息。
 
-Latest Stable Release  [![Release Version](https://img.shields.io/github/release/espressif/arduino-esp32.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/) [![Release Date](https://img.shields.io/github/release-date/espressif/arduino-esp32.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/) [![Downloads](https://img.shields.io/github/downloads/espressif/arduino-esp32/latest/total.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/latest/)
+* [开始](https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html)
+* [安装 (Windows, Linux and macOS)](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html)
+* [库](https://docs.espressif.com/projects/arduino-esp32/en/latest/libraries.html)
+* [ESP-IDF作为组件](https://docs.espressif.com/projects/arduino-esp32/en/latest/esp-idf_component.html)
+* [常见问题](https://docs.espressif.com/projects/arduino-esp32/en/latest/faq.html)
+* [故障排除](https://docs.espressif.com/projects/arduino-esp32/en/latest/troubleshooting.html)
 
-Latest Development Release  [![Release Version](https://img.shields.io/github/release/espressif/arduino-esp32/all.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/) [![Release Date](https://img.shields.io/github/release-date-pre/espressif/arduino-esp32.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/) [![Downloads](https://img.shields.io/github/downloads-pre/espressif/arduino-esp32/latest/total.svg?style=plastic)](https://github.com/espressif/arduino-esp32/releases/)
+我们欢迎对 Arduino ESP32 项目的贡献!
 
-### Documentation
-
-You can use [Arduino-ESP32 Online Documentation](https://docs.espressif.com/projects/arduino-esp32/en/latest/) to get all information about this project.
-
-* [Getting Started](https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html)
-* [Installing (Windows, Linux and macOS)](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html)
-* [Libraries](https://docs.espressif.com/projects/arduino-esp32/en/latest/libraries.html)
-* [ESP-IDF as Component](https://docs.espressif.com/projects/arduino-esp32/en/latest/esp-idf_component.html)
-* [FAQ](https://docs.espressif.com/projects/arduino-esp32/en/latest/faq.html)
-* [Troubleshooting](https://docs.espressif.com/projects/arduino-esp32/en/latest/troubleshooting.html)
-
-We welcome contributions to the Arduino ESP32 project!
-
-See [contributing](https://docs.espressif.com/projects/arduino-esp32/en/latest/contributing.html) in the documentation for more information on how to contribute to the project.
+有关如何为项目作出 [贡献](https://docs.espressif.com/projects/arduino-esp32/en/latest/contributing.html) 的更多信息，清参阅文档中的贡献。
