@@ -1,12 +1,11 @@
-# arduino-esp32-esp8266
+# Arduino-ESP32-ESP8266
 arduino-esp32-esp8266的例程和库
 
-#注意
-ADC2:0,2,4,12,13,14,15,25,26,27 打开WIFI不可用
-ADC1:32,33,(34,35,36,37,38,39)仅输入
-注意：CMD CLK SD0 SD1 SD2 SD3 用于连接模块flash
-注意：启动设置 芯片默认(2,12)内部下拉(0,5,15)内部上拉
-注意：需要使用摄像功能建议使用WROVER
+## ESP32使用时注意
+- 启动设置 芯片默认(2,12)内部下拉(0,5,15)内部上拉
+- CMD CLK SD0 SD1 SD2 SD3 用于连接模块flash
+- ADC1:32,33,(34,35,36,37,38,39)仅输入
+- ADC2:0,2,4,12,13,14,15,25,26,27 打开WIFI不可用
 
 ![Build Status](https://github.com/espressif/arduino-esp32/workflows/ESP32%20Arduino%20CI/badge.svg) [![Documentation Status](https://readthedocs.com/projects/espressif-arduino-esp32/badge/?version=latest)](https://docs.espressif.com/projects/arduino-esp32/en/latest/?badge=latest)
 
