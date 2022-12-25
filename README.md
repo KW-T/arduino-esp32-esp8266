@@ -34,21 +34,6 @@ You can use [Arduino-ESP32 Online Documentation](https://docs.espressif.com/proj
 * [FAQ](https://docs.espressif.com/projects/arduino-esp32/en/latest/faq.html)
 * [Troubleshooting](https://docs.espressif.com/projects/arduino-esp32/en/latest/troubleshooting.html)
 
-### Supported Chips
-
-Visit the [supported chips](https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html#supported-soc-s) documentation to see the list of current supported ESP32 SoCs.
-
-### Decoding exceptions
-
-You can use [EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) to get meaningful call trace.
-
-### Issue/Bug report template
-Before reporting an issue, make sure you've searched for similar one that was already created. Also make sure to go through all the issues labelled as [Type: For reference](https://github.com/espressif/arduino-esp32/issues?q=is%3Aissue+label%3A%22Type%3A+For+reference%22+).
-
-Finally, if you are sure no one else had the issue, follow the **Issue template** or **Feature request template** while reporting any [new Issue](https://github.com/espressif/arduino-esp32/issues/new/choose).
-
-### Contributing
-
 We welcome contributions to the Arduino ESP32 project!
 
 See [contributing](https://docs.espressif.com/projects/arduino-esp32/en/latest/contributing.html) in the documentation for more information on how to contribute to the project.
