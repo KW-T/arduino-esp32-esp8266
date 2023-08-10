@@ -23,7 +23,7 @@ void loop() {
   comStr = Serial.readString();            // read out the string
   comInt = comStr.toInt();                 // convert the string to integer
   comInt = constrain(comInt, 1000, 2000);  // limit the integer between to 1000 and 2000
-  c1 = analogRead(A6);
+  c1 = analogRead(A6);       //ADC采样A6引脚用于控制转速
   c2 = (c1 + 977);
   Serial.println(c2);             // show the integer number on Serial Monitor
   myServo.writeMicroseconds(c2);  // write the integer number to Servo in unit of micro-second
